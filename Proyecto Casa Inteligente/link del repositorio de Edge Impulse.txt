@@ -1,0 +1,3 @@
+link del repositorio de Edge Impulse:
+
+https://studio.edgeimpulse.com/public/155978/latest
